@@ -1,0 +1,2 @@
+http://localhost:8080/SpringSwaggerApplication/v2/api-docs  
+http://localhost:8080/SpringSwaggerApplication/swagger-ui.html
